@@ -1,0 +1,11 @@
+.none {
+  display: none;
+}
+
+.appear {
+  display: block;
+}
+
+.mg {
+  margin-right: 30px;
+}
